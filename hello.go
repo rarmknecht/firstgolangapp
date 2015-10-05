@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Printf("Hello from Go!\n")
-	fmt.Printd(firstgolanglibrary.Reverse("Hello in reverse!"))
+	fmt.Printf(firstgolanglibrary.Reverse("Hello in reverse!"))
 }
